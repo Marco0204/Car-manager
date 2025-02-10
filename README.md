@@ -78,3 +78,14 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
+📸 Screenshots
+
+<img width="1470" alt="Screenshot 2025-02-09 at 8 10 05 PM" src="https://github.com/user-attachments/assets/ea2d6e08-1d51-4068-a271-732a3c9a67e8" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 59 PM" src="https://github.com/user-attachments/assets/7e47b1f2-af35-4b01-aebc-e48b80f96362" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 51 PM" src="https://github.com/user-attachments/assets/8203ae0b-870c-4d72-a336-5e8d359c94c7" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 46 PM" src="https://github.com/user-attachments/assets/cc17537c-450a-46bb-9ddf-0e510449db5b" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 31 PM" src="https://github.com/user-attachments/assets/1e61a304-97c3-49e9-9ab4-ba0b2d2da9cc" />
+
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 59 PM" src="https://github.com/user-attachments/assets/79e8addb-b491-4d7d-b90f-d70c26ec1d1c" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 57 PM" src="https://github.com/user-attachments/assets/8ac86c4d-8c0d-4618-8149-d6991d5dedaa" />
+<img width="1470" alt="Screenshot 2025-02-09 at 8 09 54 PM" src="https://github.com/user-attachments/assets/7cb24000-f189-4b1e-b3c1-507a4e382f28" />
